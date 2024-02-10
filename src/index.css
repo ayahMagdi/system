@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&family=Norican&family=Poppins:wght@200;700;800;900&family=Roboto:wght@100;300;400;500;700;900&family=Saira:wght@300;400;500;600;700&display=swap');
+
+body{
+    background-color: #FFF;
+    direction: rtl;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    max-height: 100vh;
+    margin:0;
+    padding:0
+}
